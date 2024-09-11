@@ -3,4 +3,4 @@ Itt a szöveg. Itt a modositas
 ez itt a harmadik modositas. Itt is lesz hiba megmondom elore.
 ez itt a harmadik modositas. itt lesz a hiba most.
 
-elso commmit
+elso commmit itt a hiba
